@@ -1,6 +1,6 @@
 # 💰 Expense Tracker
 
-A full-stack Expense Tracker using Node.js, Express, MongoDB,
+A full-stack Expense Tracker using Node.js, Express, MongoDB.
 
 ## Features
 - Add / Edit / Delete expenses
